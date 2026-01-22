@@ -1,0 +1,69 @@
+# ninja log v6
+21	1603	7903614378420851	oop_projekt_1_autogen/timestamp	7f4cf0ff20e44ebc
+21	1603	7903614378420851	oop_projekt_1_autogen/mocs_compilation.cpp	7f4cf0ff20e44ebc
+21	1603	7903614378420851	C:/Users/abc/Documents/OOP zadaci/oop_projekt_1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/oop_projekt_1_autogen/timestamp	7f4cf0ff20e44ebc
+21	1603	7903614378420851	C:/Users/abc/Documents/OOP zadaci/oop_projekt_1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/oop_projekt_1_autogen/mocs_compilation.cpp	7f4cf0ff20e44ebc
+1659	5136	7903614380506531	CMakeFiles/oop_projekt_1.dir/oop_projekt_1_autogen/mocs_compilation.cpp.obj	d7d92f4de4a77a44
+1677	5302	7903614380664670	CMakeFiles/oop_projekt_1.dir/main.cpp.obj	cc9bd7a0f013c335
+1693	5358	7903614380830651	CMakeFiles/oop_projekt_1.dir/mainwindow.cpp.obj	4b066af8000e79b
+5358	5805	7903614417497064	oop_projekt_1.exe	e87c7b8c6811903c
+33	1597	7903697517790678	oop_projekt_1_autogen/timestamp	7f4cf0ff20e44ebc
+33	1597	7903697517790678	oop_projekt_1_autogen/mocs_compilation.cpp	7f4cf0ff20e44ebc
+33	1597	7903697517790678	C:/Users/abc/Documents/OOP zadaci/oop_projekt_1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/oop_projekt_1_autogen/timestamp	7f4cf0ff20e44ebc
+33	1597	7903697517790678	C:/Users/abc/Documents/OOP zadaci/oop_projekt_1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/oop_projekt_1_autogen/mocs_compilation.cpp	7f4cf0ff20e44ebc
+43	537	7903698956926416	oop_projekt_1_autogen/timestamp	7f4cf0ff20e44ebc
+43	537	7903698956926416	oop_projekt_1_autogen/mocs_compilation.cpp	7f4cf0ff20e44ebc
+43	537	7903698956926416	C:/Users/abc/Documents/OOP zadaci/oop_projekt_1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/oop_projekt_1_autogen/timestamp	7f4cf0ff20e44ebc
+43	537	7903698956926416	C:/Users/abc/Documents/OOP zadaci/oop_projekt_1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/oop_projekt_1_autogen/mocs_compilation.cpp	7f4cf0ff20e44ebc
+539	5496	7903698961895308	CMakeFiles/oop_projekt_1.dir/oop_projekt_1_autogen/mocs_compilation.cpp.obj	d7d92f4de4a77a44
+545	5634	7903698961945131	CMakeFiles/oop_projekt_1.dir/main.cpp.obj	cc9bd7a0f013c335
+45	556	7903713764899959	oop_projekt_1_autogen/timestamp	7f4cf0ff20e44ebc
+45	556	7903713764899959	oop_projekt_1_autogen/mocs_compilation.cpp	7f4cf0ff20e44ebc
+45	556	7903713764899959	C:/Users/abc/Documents/OOP zadaci/oop_projekt_1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/oop_projekt_1_autogen/timestamp	7f4cf0ff20e44ebc
+45	556	7903713764899959	C:/Users/abc/Documents/OOP zadaci/oop_projekt_1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/oop_projekt_1_autogen/mocs_compilation.cpp	7f4cf0ff20e44ebc
+558	5922	7903713770030512	CMakeFiles/oop_projekt_1.dir/mainwindow.cpp.obj	4b066af8000e79b
+5923	6483	7903713823674172	oop_projekt_1.exe	e87c7b8c6811903c
+19	204	7903738967608594	oop_projekt_1_autogen/timestamp	7f4cf0ff20e44ebc
+19	204	7903738967608594	oop_projekt_1_autogen/mocs_compilation.cpp	7f4cf0ff20e44ebc
+19	204	7903738967608594	C:/Users/abc/Documents/OOP zadaci/oop_projekt_1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/oop_projekt_1_autogen/timestamp	7f4cf0ff20e44ebc
+19	204	7903738967608594	C:/Users/abc/Documents/OOP zadaci/oop_projekt_1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/oop_projekt_1_autogen/mocs_compilation.cpp	7f4cf0ff20e44ebc
+205	2962	7903738969509851	CMakeFiles/oop_projekt_1.dir/mainwindow.cpp.obj	4b066af8000e79b
+2962	3243	7903738997083973	oop_projekt_1.exe	e87c7b8c6811903c
+34	1332	7904537761485918	oop_projekt_1_autogen/timestamp	7f4cf0ff20e44ebc
+34	1332	7904537761485918	oop_projekt_1_autogen/mocs_compilation.cpp	7f4cf0ff20e44ebc
+34	1332	7904537761485918	C:/Users/abc/Documents/OOP zadaci/oop_projekt_1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/oop_projekt_1_autogen/timestamp	7f4cf0ff20e44ebc
+34	1332	7904537761485918	C:/Users/abc/Documents/OOP zadaci/oop_projekt_1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/oop_projekt_1_autogen/mocs_compilation.cpp	7f4cf0ff20e44ebc
+20	194	7904537876952154	oop_projekt_1_autogen/timestamp	7f4cf0ff20e44ebc
+20	194	7904537876952154	oop_projekt_1_autogen/mocs_compilation.cpp	7f4cf0ff20e44ebc
+20	194	7904537876952154	C:/Users/abc/Documents/OOP zadaci/oop_projekt_1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/oop_projekt_1_autogen/timestamp	7f4cf0ff20e44ebc
+20	194	7904537876952154	C:/Users/abc/Documents/OOP zadaci/oop_projekt_1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/oop_projekt_1_autogen/mocs_compilation.cpp	7f4cf0ff20e44ebc
+27	419	7904538034448772	oop_projekt_1_autogen/timestamp	7f4cf0ff20e44ebc
+27	419	7904538034448772	oop_projekt_1_autogen/mocs_compilation.cpp	7f4cf0ff20e44ebc
+27	419	7904538034448772	C:/Users/abc/Documents/OOP zadaci/oop_projekt_1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/oop_projekt_1_autogen/timestamp	7f4cf0ff20e44ebc
+27	419	7904538034448772	C:/Users/abc/Documents/OOP zadaci/oop_projekt_1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/oop_projekt_1_autogen/mocs_compilation.cpp	7f4cf0ff20e44ebc
+23	261	7904539412313584	oop_projekt_1_autogen/timestamp	7f4cf0ff20e44ebc
+23	261	7904539412313584	oop_projekt_1_autogen/mocs_compilation.cpp	7f4cf0ff20e44ebc
+23	261	7904539412313584	C:/Users/abc/Documents/OOP zadaci/oop_projekt_1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/oop_projekt_1_autogen/timestamp	7f4cf0ff20e44ebc
+23	261	7904539412313584	C:/Users/abc/Documents/OOP zadaci/oop_projekt_1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/oop_projekt_1_autogen/mocs_compilation.cpp	7f4cf0ff20e44ebc
+272	4296	7904539414868371	CMakeFiles/oop_projekt_1.dir/main.cpp.obj	cc9bd7a0f013c335
+263	4308	7904539414787079	CMakeFiles/oop_projekt_1.dir/oop_projekt_1_autogen/mocs_compilation.cpp.obj	d7d92f4de4a77a44
+280	4355	7904539414967130	CMakeFiles/oop_projekt_1.dir/mainwindow.cpp.obj	4b066af8000e79b
+4356	4963	7904539455712481	oop_projekt_1.exe	e87c7b8c6811903c
+39	504	7904542450185092	oop_projekt_1_autogen/timestamp	7f4cf0ff20e44ebc
+39	504	7904542450185092	oop_projekt_1_autogen/mocs_compilation.cpp	7f4cf0ff20e44ebc
+39	504	7904542450185092	C:/Users/abc/Documents/OOP zadaci/oop_projekt_1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/oop_projekt_1_autogen/timestamp	7f4cf0ff20e44ebc
+39	504	7904542450185092	C:/Users/abc/Documents/OOP zadaci/oop_projekt_1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/oop_projekt_1_autogen/mocs_compilation.cpp	7f4cf0ff20e44ebc
+507	4819	7904542454923321	CMakeFiles/oop_projekt_1.dir/mainwindow.cpp.obj	4b066af8000e79b
+4820	5246	7904542497998133	oop_projekt_1.exe	e87c7b8c6811903c
+30	343	7904543592526352	oop_projekt_1_autogen/timestamp	7f4cf0ff20e44ebc
+30	343	7904543592526352	oop_projekt_1_autogen/mocs_compilation.cpp	7f4cf0ff20e44ebc
+30	343	7904543592526352	C:/Users/abc/Documents/OOP zadaci/oop_projekt_1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/oop_projekt_1_autogen/timestamp	7f4cf0ff20e44ebc
+30	343	7904543592526352	C:/Users/abc/Documents/OOP zadaci/oop_projekt_1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/oop_projekt_1_autogen/mocs_compilation.cpp	7f4cf0ff20e44ebc
+345	4442	7904543595727591	CMakeFiles/oop_projekt_1.dir/mainwindow.cpp.obj	4b066af8000e79b
+4442	4831	7904543636704474	oop_projekt_1.exe	e87c7b8c6811903c
+27	434	7904544542602343	oop_projekt_1_autogen/timestamp	7f4cf0ff20e44ebc
+27	434	7904544542602343	oop_projekt_1_autogen/mocs_compilation.cpp	7f4cf0ff20e44ebc
+27	434	7904544542602343	C:/Users/abc/Documents/OOP zadaci/oop_projekt_1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/oop_projekt_1_autogen/timestamp	7f4cf0ff20e44ebc
+27	434	7904544542602343	C:/Users/abc/Documents/OOP zadaci/oop_projekt_1/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/oop_projekt_1_autogen/mocs_compilation.cpp	7f4cf0ff20e44ebc
+436	4740	7904544546806529	CMakeFiles/oop_projekt_1.dir/mainwindow.cpp.obj	4b066af8000e79b
+4740	5219	7904544589849309	oop_projekt_1.exe	e87c7b8c6811903c
