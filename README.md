@@ -1,0 +1,2 @@
+# Seminar
+Objektno orijentirano programiranje
